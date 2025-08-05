@@ -1,0 +1,98 @@
+Html
+{
+Background-color: #758AA1;
+Background-image: url("file:///Users/karkkieerola/Downloads/kukkakuva%20nettisivulle%20(2).png");
+Background-repeat: no-repeat;
+Background-attachment: fixed;
+Background-position: bottom center;
+Background-size: 100% 50%;
+}
+
+h1
+{
+Display: block;
+width: 40%;
+Text-align: center;
+Font-size: 40px;
+Font-family: "Italiana regular", italiana;
+Font-weight: bold;
+Color: #F0C7FF;
+Border: solid 0px;
+Border-radius: 20px;
+padding: 10px; 
+Margin: auto;
+Text-shadow: 3px 1px #6C839E;
+}
+
+
+#findme
+{
+Text-align: center;
+Color: #213957;
+Font-size: 17px;
+margin-top: 5px;
+}
+
+Legend 
+{
+item-align: center;
+Text-align: center;
+color: #213957;
+Padding: 0;
+Font-weight: bold;
+}
+
+Fieldset
+{
+Border:solid #213957; 
+}
+
+.somet button
+{
+display: block;
+Margin: auto;
+Width: 60%;
+}
+
+.somet, .somet a:link
+{
+Text-decoration: none;
+Border-radius: 20px;
+Height: 55px;
+Font-size: 20px;
+Font-family: "Julius sans one", sans serif;
+Transition-duration: 0.4s;
+Cursor: pointer;
+}
+
+.button
+{
+Text-decoration: none;
+Color: #899CB3;
+Background-color: #3B5675;
+Border-radius: 20px;
+Height: 55px;
+Font-size: 20px;
+Font-family: "Julius sans one", sans serif;
+}
+
+.somet a
+{
+Color: #899CB3;
+}
+
+.button:hover
+{
+Color: #0D1D30;
+Background-color: #90AFD1; 
+}
+
+.somet a:hover
+{
+Color: #0D1D30;
+}
+
+.yhteys, #port
+{
+Display: none;
+}
