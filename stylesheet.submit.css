@@ -1,3 +1,14 @@
+html{
+  background-color: #A2C4A1;
+}
+
+
 #send{
-text-align:left-corner;
+text-align: left-top-corner;
+  color: #477043;
+}
+
+h2{
+  text-align: center;
+  color: #395738;
 }
