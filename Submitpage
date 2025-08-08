@@ -1,7 +1,14 @@
 <!docktype html>
 <html>
-<head></head>
-<body></body>
+<head>
+<title>message send</title>
+
+</head>
+
+<body>
+<p id="send">Your message was send,</p>
+<h2>Thank you! I will contact you as soon as possible!</h2>
+</body>
 
 
 
