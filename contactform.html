@@ -11,17 +11,21 @@
 <div class="yhteys"><!--yhteydenottolomake juttunen-->
 
   <form 
-    method="post" 
     action="https://api.web3forms.com/submit"
-    form action="Submitpage.html"
-    >
+    form action="success"
+    success="Submitpage.html"
+    method="post">
+    
     <input type="hidden" name="access_key" value="fd75a5ec-41e6-46b3-abb8-54e8fa94c66f">
     
-  <input type="text" placeholder="Name"><br>
-<input type="text" placeholder="Email"> <br>
-<textarea rows="4"; cols="50"; placeholder="What do you want to talk about? Kirjoita suomeksi tai write in English!"></textarea> <br>
+  <input type="text" name="name" placeholder="Name" required><br>
+<input type="text" name="email" placeholder="Email" required> <br>
+<textarea rows="4"; cols="50"; name="message"; placeholder="What do you want to talk about? Kirjoita suomeksi tai write in English!" required></textarea> <br>
 <input type="file"> <br>
-<input type="submit" value="submit">
+<button type="submit">Submit</button>
+   
+
+</form>
     
 </form>
 </div>
