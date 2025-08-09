@@ -74,6 +74,7 @@ Border-radius: 20px;
 Height: 55px;
 Font-size: 20px;
 Font-family: "Julius sans one", sans serif;
+  padding-bottom: 10px;
 }
 
 .somet a
@@ -92,7 +93,7 @@ Background-color: #90AFD1;
 Color: #0D1D30;
 }
 
-.yhteys, #port
+.yhteys, 
 {
 Display: none;
 }
