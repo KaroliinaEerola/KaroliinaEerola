@@ -1,0 +1,22 @@
+body
+{
+  background-color:#8A7B62;
+}
+
+h1
+{
+  color:#453822;
+  text-align: center;
+}
+
+fieldset
+{
+  item-align:right;
+  border:solid 2px #302410;
+}
+
+legend
+{
+  color: #302410;
+}
+
