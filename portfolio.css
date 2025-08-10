@@ -22,3 +22,16 @@ legend
   color: #302410;
 }
 
+.rivi {
+  display: flex;
+  justify-content: space-between; /* Työntää elementit ääripäihin */
+  align-items: center;             /* Pystysuuntainen tasaus */
+}
+
+.vasen {
+  text-align: left;
+}
+
+.oikea {
+  text-align: right;
+}
