@@ -3,6 +3,13 @@ body
   background-color:#8A7B62;
 }
 
+.ekasivu 
+{
+  width: 100vw;
+  height: 100vw;
+  background-color: #634A2D;
+}
+
 h1
 {
   padding-top: 20px;
