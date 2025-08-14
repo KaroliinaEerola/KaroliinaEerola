@@ -1,6 +1,8 @@
 Html
 {
 Background-color: #758AA1;
+  width: 100vw;
+  height: 80vw;
 Background-image: url("https://photos.google.com/u/2/photo/AF1QipMpMHfGmuKUzoppxMOI8sY26eyj-RZP0awOTToX");
 Background-repeat: no-repeat;
 Background-attachment: fixed;
