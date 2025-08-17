@@ -1,36 +1,58 @@
-body
-{
-  background-color:#8A7B62;
-}
 
-.ekasivu, .aboutme, .cvs, .work, .cont
+.section1, .aboutme, .cvs, .work, .cont
 {
   width: 100vw;
   height: 100vw;
 }
 
-.ekasivu
+.section1
 {
    background-color: #634A2D;
 }
 
-h1
+#etu
 {
   padding-top: 20px;
   color:#453822;
   text-align: center;
+  Font-family: "Horta";
+  font-size: 100px
 }
 
-.donno
+#niminen
+{
+  font-family: "jimmy script";
+  font-size: 30px;
+  text-align: center;
+  color: #442900;
+}
+
+.navigation
+{
+  text-decoration: none;
+  text-align: bottom-center;
+}
+
+.section2
 {
   display: flex;
   justify-content: space-between; 
   align-items: center;
 }
 
+#ame
+{
+font-size: 60px;  
+}
+
 .cvs
 {
   text-align: left;
+}
+
+body
+{
+  background-color:#8A7B62;
 }
 
 .aboutme
