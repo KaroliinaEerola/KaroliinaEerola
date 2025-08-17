@@ -16,14 +16,19 @@ Text-align: center;
 Font-size: 40px;
 Font-family: "Italiana regular", italiana;
 Font-weight: bold;
-Color: #F0C7FF;
+Color: #174D8A;
 Border: solid 0px;
 Border-radius: 20px;
 padding: 10px; 
 Margin: auto;
-Text-shadow: 3px 1px #6C839E;
+Text-shadow: 3px 1px #092A4F;
 }
 
+.somet
+{
+   width: 100vw;
+  height: 100vw;
+}
 
 #findme
 {
@@ -95,9 +100,4 @@ Color: #0D1D30;
 .yhteys, #port, #vali
 {
 Display: none;
-}
-
-.somet{
-   width: 100vw;
-  height: 80vw;
 }
