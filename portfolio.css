@@ -5,8 +5,8 @@ body
 
 .ekasivu, .donno, .cvs, .work
 {
-  width: 1920px;
-  height: 1080px;
+  width: 100vw;
+  height: 100vw;
 }
 
 .ekasivu
