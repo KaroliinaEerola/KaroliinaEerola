@@ -13,7 +13,8 @@
 #etu
 {
   padding: 100px 0;
-  color:#453822;
+  color: #453822;
+  border: solid;
   text-align: center;
   Font-family: "Horta";
   font-size: 50vw;
@@ -21,7 +22,7 @@
 
 #niminen
 {
-  font-family: "jimmy script";
+  font-family: "jimmy script", cursive;
   font-size: 30px;
   text-align: center;
   color: #442900;
