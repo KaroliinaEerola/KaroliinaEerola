@@ -7,20 +7,27 @@ Background-attachment: fixed;
 Background-position: bottom center;
 }
 
+section0
+{
+  width: 100%;
+  max-width: 1020px;
+  font-size: 0.98vw;   
+}
+
 h1
 {
 Display: block;
 width: 40%;
 Text-align: center;
-Font-size: 40px;
+Font-size: 4em;
 Font-family: "Italiana regular", italiana;
 Font-weight: bold;
 Color: #174D8A;
-Border: solid 0px;
-Border-radius: 20px;
-padding: 10px; 
+Border: solid 0em;
+Border-radius: 2em;
+padding: 1em; 
 Margin: auto;
-Text-shadow: 2px 1px #092A4F;
+Text-shadow: 0.2em 0.1em #092A4F;
 }
 
 .somet
@@ -33,8 +40,8 @@ Text-shadow: 2px 1px #092A4F;
 {
 Text-align: center;
 Color: #213957;
-Font-size: 17px;
-margin-top: 5px;
+Font-size: 1.7em;
+margin-top: 0.5em;
 }
 
 Legend 
@@ -49,8 +56,8 @@ Font-weight: bold;
 Fieldset
 {
 Border:solid #213957; 
-width: 300px;
-height: 150px;
+width: 30em;
+height: 15em;
 }
 
 .somet button
