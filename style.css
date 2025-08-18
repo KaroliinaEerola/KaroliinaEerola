@@ -5,7 +5,6 @@ Background-image: url("https://photos.google.com/u/2/photo/AF1QipMpMHfGmuKUzoppx
 Background-repeat: no-repeat;
 Background-attachment: fixed;
 Background-position: bottom center;
-Background-size: 100% 50%;
 }
 
 h1
@@ -50,8 +49,8 @@ Font-weight: bold;
 Fieldset
 {
 Border:solid #213957; 
-width: 100vw;
-   height: 50%;
+width: 300px;
+height: 150px;
 }
 
 .somet button
