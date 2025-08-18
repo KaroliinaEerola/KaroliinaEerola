@@ -47,6 +47,8 @@
 {
    padding: 20px;
   font-size: 20px;
+  top-border: solid 2px white;
+  background-color: #423124;
 }
 
 .section2
