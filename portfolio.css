@@ -13,11 +13,13 @@
 #etu
 {
   padding: 100px;
+  margin: auto;
   color: #5d4c31;
   text-align: center;
   Font-family: "Horta";
   font-size: 300px;
   Text-shadow: 2px 1px #442900;
+  z-index: -1;
 }
 
 #niminen
