@@ -1,8 +1,8 @@
 
 .section1, .section2, .section3, .section4, .section5
 {
-  width: 100vw;
-  height: 120vw;
+  width: 100%;
+  height: 70%;
 }
 
 .section0
@@ -27,20 +27,20 @@
 
 #etu
 {
-  padding: 100px;
+  padding: 10em;
   margin: auto;
   color: #5d4c31;
   text-align: center;
   Font-family: "Horta";
   font-size: 15em;
-  Text-shadow: 4px 2px #442900;
-  z-index: -1;
+  Text-shadow: 0.5em 0.2em #442900;
+  z-index: -0.1em;
 }
 
 #niminen
 {
   font-family: "jimmy script", cursive;
-  font-size: 30px;
+  font-size: 3em;
   text-align: center;
   color: #442900;
   z-index: 1;
@@ -48,7 +48,6 @@
 
 .section1
 {
-  
   text-align: center;
 }
 
@@ -60,9 +59,9 @@
 
 .navigation
 {
-   padding: 20px;
-  font-size: 20px;
-  top-border: solid 2px white;
+  padding: 2em;
+  font-size: 3em;
+  top-border: solid 0.3em white;
   background-color: #423124;
 }
 
@@ -75,24 +74,20 @@
 
 #ame
 {
-font-size: 60px;  
+font-size: 6em;  
 }
 
-.cvs
+.section3
 {
   text-align: left;
 }
 
-body
-{
-  background-color:#8A7B62;
-}
 
-.aboutme
+.section2
 {
   text-align: left;
-  height: max-height;
-  width: 60%;
+  height: 100%;
+  width: 100%;
 }
 
 fieldset
