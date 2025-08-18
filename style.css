@@ -70,9 +70,9 @@ Width: 60%;
 .somet, .somet a:link
 {
 Text-decoration: none;
-Border-radius: 20px;
-Height: 55px;
-Font-size: 20px;
+Border-radius: 2em;
+Height: 5.5em;
+Font-size: 2em;
 Font-family: "Julius sans one", sans serif;
 Transition-duration: 0.4s;
 Cursor: pointer;
@@ -83,9 +83,9 @@ Cursor: pointer;
 Text-decoration: none;
 Color: #899CB3;
 Background-color: #3B5675;
-Border-radius: 20px;
-Height: 55px;
-Font-size: 20px;
+Border-radius: 2em;
+Height: 5.5em;
+Font-size: 2em;
 Font-family: "Julius sans one", sans serif;
 }
 
