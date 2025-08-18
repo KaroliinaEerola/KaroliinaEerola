@@ -5,6 +5,13 @@
   height: 120vw;
 }
 
+.section0
+{
+  width: 100%;
+  max-width: 1020px;
+  font-size: 0.98vw;
+}
+
 .section1
 {
    background-color: #796654;
@@ -17,7 +24,7 @@
   color: #5d4c31;
   text-align: center;
   Font-family: "Horta";
-  font-size: 150px;
+  font-size: 15em;
   Text-shadow: 4px 2px #442900;
   z-index: -1;
 }
