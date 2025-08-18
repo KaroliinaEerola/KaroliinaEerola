@@ -12,6 +12,14 @@
   font-size: 0.98vw;
 }
 
+@media (min-width:1021px)
+{
+  .section0
+  {
+    font-size: 10px;
+  }
+}
+
 .section1
 {
    background-color: #796654;
