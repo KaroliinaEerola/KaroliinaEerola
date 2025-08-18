@@ -17,7 +17,7 @@
   color: #5d4c31;
   text-align: center;
   Font-family: "Horta";
-  font-size: 200px;
+  font-size: 150px;
   Text-shadow: 4px 2px #442900;
   z-index: -1;
 }
@@ -28,12 +28,26 @@
   font-size: 30px;
   text-align: center;
   color: #442900;
+  z-index: 1;
 }
 
 .navigation
 {
-  text-decoration: none;
+  
   text-align: bottom-center;
+  tex-align: center;
+}
+
+.button a:link
+{
+  text-decoration: none;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.button
+{
+  
 }
 
 .section2
