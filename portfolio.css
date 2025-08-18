@@ -86,15 +86,14 @@ font-size: 6em;
 .section2
 {
   text-align: left;
-  height: 100%;
-  width: 100%;
+
 }
 
 fieldset
 {
-  padding-top: -5px;
+  padding-top: 5px;
   text-align: justify;
-  border:solid 2px #302410;
+  border:solid 0.2em #302410;
   line-height: 2;
 }
 
