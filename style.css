@@ -1,15 +1,11 @@
 Html
 {
 Background-color: #758AA1;
-Background-image: url("https://photos.google.com/u/2/photo/AF1QipMpMHfGmuKUzoppxMOI8sY26eyj-RZP0awOTToX");
-Background-repeat: no-repeat;
-Background-attachment: fixed;
-Background-position: bottom center;
 }
 
-section0
+.section0
 {
-  width: 100%;
+  width: 90%;
   max-width: 1020px;
   font-size: 0.98vw;   
 }
@@ -17,47 +13,45 @@ section0
 h1
 {
 Display: block;
-width: 40%;
 Text-align: center;
 Font-size: 4em;
 Font-family: "Italiana regular", italiana;
 Font-weight: bold;
 Color: #174D8A;
 Border: solid 0em;
-Border-radius: 2em;
-padding: 1em; 
+padding: 1.5em; 
 Margin: auto;
-Text-shadow: 0.2em 0.1em #092A4F;
-}
-
-.somet
-{
-   width: 100vw;
-  height: 100vw;
+Text-shadow: 0.2em 0.1em #B4BECF;
 }
 
 #findme
 {
-Text-align: center;
-Color: #213957;
-Font-size: 1.7em;
-margin-top: 0.5em;
+  Text-align: center;
+  Color: #213957;
+  Font-size: 1.7em;
 }
 
 Legend 
 {
-item-align: center;
-Text-align: center;
-color: #213957;
-Padding: 0;
-Font-weight: bold;
+  item-align: center;
+  Text-align: center;
+  color: #213957;
+  Padding: 0;
+  Font-weight: bold;
+}
+
+.somet
+{
+  width: 10em;
+  height: 10em;
+  padding: 1em;
 }
 
 Fieldset
 {
-Border:solid #213957; 
-width: 30em;
-height: 15em;
+  Border:solid 0.2em #213957; 
+  width: 70%;
+  height: 80%;
 }
 
 .somet button
