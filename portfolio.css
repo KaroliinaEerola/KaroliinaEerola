@@ -21,7 +21,8 @@
 
 .section1
 {
-   background-color: #796654;
+  background-color: #796654;
+  text-align: center;
 }
 
 #etu
@@ -41,11 +42,6 @@
   font-size: 3em;
   text-align: center;
   color: #442900;
-}
-
-.section1
-{
-  text-align: center;
 }
 
 .button a:link
