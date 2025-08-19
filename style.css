@@ -1,6 +1,6 @@
 Html
 {
-Background-color: #758AA1;
+  Background-color: #758AA1;
 }
 
 .section0
@@ -12,16 +12,17 @@ Background-color: #758AA1;
 
 h1
 {
-Display: block;
-Text-align: center;
-Font-size: 4em;
-Font-family: "Italiana regular", italiana;
-Font-weight: bold;
-Color: #174D8A;
-Border: solid 0em;
-padding: 1.5em; 
-Margin: auto;
-Text-shadow: 0.2em 0.1em #B4BECF;
+  Display: block;
+  Text-align: center;
+  Font-size: 4em;
+  Font-family: "Italiana regular", italiana;
+  Font-weight: bold;
+  Color: #174D8A;
+  Border: solid 0em;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  Margin: auto;
+  Text-shadow: 0.2em 0.1em #B4BECF;
 }
 
 #findme
@@ -50,56 +51,57 @@ Legend
 Fieldset
 {
   Border:solid 0.2em #213957; 
-  width: 70%;
+  width: 90%;
   height: 80%;
+  item-align: center;
 }
 
 .somet button
 {
-display: block;
-Margin: auto;
-Width: 60%;
+  display: block;
+  Margin: auto;
+  Width: 60%;
 }
 
 .somet, .somet a:link
 {
-Text-decoration: none;
-Border-radius: 2em;
-Height: 5.5em;
-Font-size: 2em;
-Font-family: "Julius sans one", sans serif;
-Transition-duration: 0.4s;
-Cursor: pointer;
+  Text-decoration: none;
+  Border-radius: 2em;
+  Height: 5.5em;
+  Font-size: 2em;
+  Font-family: "Julius sans one", sans serif;
+  Transition-duration: 0.4s;
+  Cursor: pointer;
 }
 
 .button
 {
-Text-decoration: none;
-Color: #899CB3;
-Background-color: #3B5675;
-Border-radius: 2em;
-Height: 5.5em;
-Font-size: 2em;
-Font-family: "Julius sans one", sans serif;
+  Text-decoration: none;
+  Color: #899CB3;
+  Background-color: #3B5675;
+  Border-radius: 2em;
+  Height: 5.5em;
+  Font-size: 2em;
+  Font-family: "Julius sans one", sans serif;
 }
 
 .somet a
 {
-Color: #899CB3;
+  Color: #899CB3;
 }
 
 .button:hover
 {
-Color: #0D1D30;
-Background-color: #90AFD1; 
+  Color: #0D1D30;
+  Background-color: #90AFD1; 
 }
 
 .somet a:hover
 {
-Color: #0D1D30;
+  Color: #0D1D30;
 }
 
 .yhteys, #port, #vali
 {
-Display: none;
+  Display: none;
 }
