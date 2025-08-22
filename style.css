@@ -12,6 +12,7 @@ Html
   font-size: 0.98vw;   
   background-color: #546C87;
   border: solid 0.2em #546C87;
+  item-align: center;
 }
 
 h1
