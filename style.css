@@ -1,7 +1,6 @@
 Html
 {
   Background-color: #758AA1;
-  item-shadow: #3F5063;
 }
 
 .section0
@@ -26,18 +25,17 @@ body
   margin: 0 auto;
   display: flex;
   align-items: center;
-  position: absolute; top: 50%; left: 50%;
 }
 
 h1
 {
   Display: block;
   Text-align: center;
-  Font-size: 100%;
+  Font-size: 5em;
   Font-family: "Italiana regular", italiana;
   Font-weight: bold;
   Color: #174D8A;
-  Border: solid 0em;
+  Border: solid 0;
   padding-bottom: 0.2em;
   Margin: auto;
   margin-top: 0;
@@ -48,7 +46,7 @@ h1
 {
   Text-align: center;
   Color: #213957;
-  Font-size: 1em;
+  Font-size: 2em;
 }
 
 Legend 
@@ -62,14 +60,14 @@ Legend
 
 .somet
 {
-  width: 10em;
-  height: 10em;
+  width: 90%;
+  height: 90%;
   padding: 1em;
 }
 
 Fieldset
 {
-  Border:solid 0.2em #213957; 
+  Border: solid 0.2em #213957; 
   width: 90%;
   height: 80%;
   item-align: center;
