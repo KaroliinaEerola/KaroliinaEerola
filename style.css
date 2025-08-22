@@ -12,8 +12,8 @@ Html
 
 .neli
 {
-  width: 60%;
-  height: 70%;
+  width: 80%;
+  height: 90%;
   background-color: #546C87;
   border: solid 0.2em #546C87;
   item-align: center;
@@ -31,7 +31,7 @@ h1
 {
   Display: block;
   Text-align: center;
-  Font-size: 5em;
+  Font-size: 3em;
   Font-family: "Italiana regular", italiana;
   Font-weight: bold;
   Color: #174D8A;
