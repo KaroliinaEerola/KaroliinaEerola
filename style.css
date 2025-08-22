@@ -12,7 +12,7 @@ Html
 
 .neli
 {
-  width: 80%;
+  width: 90%;
   height: 90%;
   background-color: #546C87;
   border: solid 0.2em #546C87;
@@ -21,7 +21,7 @@ Html
 
 body
 {
-  justify-content:center;
+  justify-content: center;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -36,7 +36,6 @@ h1
   Font-weight: bold;
   Color: #174D8A;
   Border: solid 0;
-  padding-bottom: 0.2em;
   Margin: auto;
   margin-top: 0;
   Text-shadow: 0.2em 0.1em #B4BECF;
