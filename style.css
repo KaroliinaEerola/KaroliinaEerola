@@ -25,6 +25,7 @@ body
   margin: 0 auto;
   display: flex;
   align-items: center;
+  position: absolute; top: 50%; left: 50%;
 }
 
 h1
@@ -45,7 +46,7 @@ h1
 {
   Text-align: center;
   Color: #213957;
-  Font-size: 2em;
+  Font-size: 1em;
 }
 
 Legend 
@@ -60,7 +61,7 @@ Legend
 .somet
 {
   width: 90%;
-  height: 100%;
+  height: 90%;
   padding: 1em;
 }
 
@@ -68,7 +69,7 @@ Fieldset
 {
   Border: solid 0.2em #213957; 
   width: 90%;
-  height: 80%;
+  height: 90%;
   item-align: center;
 }
 
