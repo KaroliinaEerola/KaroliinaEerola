@@ -2,14 +2,18 @@ Html
 {
   Background-color: #758AA1;
   item-shadow: #3F5063;
-  max-width: 1020px;
 }
 
 .section0
 {
-  width: 80%;
+max-width: 1020px;
+  font-size: 0.98vw; 
+}
+
+.neli
+{
+  width: 50%;
   height: 70%;
-  font-size: 0.98vw;   
   background-color: #546C87;
   border: solid 0.2em #546C87;
   item-align: center;
@@ -28,7 +32,7 @@ h1
 {
   Display: block;
   Text-align: center;
-  Font-size: 2em;
+  Font-size: 100%;
   Font-family: "Italiana regular", italiana;
   Font-weight: bold;
   Color: #174D8A;
@@ -83,7 +87,7 @@ Fieldset
   Border-radius: 2em;
   Height: 1em;
   Font-size: 0.5em;
-  width: 70%;
+  width: 100%;
   Font-family: "Julius sans one", sans serif;
   Transition-duration: 0.4s;
   Cursor: pointer;
@@ -96,6 +100,7 @@ Fieldset
   Background-color: #3B5675;
   Border-radius: 2em;
   Height: 3em;
+  width: 100%;
   Font-size: 2em;
   Font-family: "Julius sans one", sans serif;
 }
