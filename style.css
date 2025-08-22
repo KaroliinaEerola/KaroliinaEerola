@@ -2,12 +2,13 @@ Html
 {
   Background-color: #758AA1;
   item-shadow: #3F5063;
+  max-width: 1020px;
 }
 
 .section0
 {
-  width: 90%;
-  max-width: 1020px;
+  width: 80%;
+  height: 70%;
   font-size: 0.98vw;   
   background-color: #546C87;
   border: solid 0.2em #546C87;
