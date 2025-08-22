@@ -6,13 +6,14 @@ Html
 
 .section0
 {
-max-width: 1020px;
+  max-width: 1020px;
+  width: 100%;
   font-size: 0.98vw; 
 }
 
 .neli
 {
-  width: 50%;
+  width: 60%;
   height: 70%;
   background-color: #546C87;
   border: solid 0.2em #546C87;
