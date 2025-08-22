@@ -73,7 +73,7 @@ Fieldset
 {
   display: block;
   Margin: auto;
-  Width: 60%;
+  item-align: center;
 }
 
 .somet, .somet a:link
@@ -93,7 +93,7 @@ Fieldset
   Color: #899CB3;
   Background-color: #3B5675;
   Border-radius: 2em;
-  Height: 5.5em;
+  Height: 3em;
   Font-size: 2em;
   Font-family: "Julius sans one", sans serif;
 }
