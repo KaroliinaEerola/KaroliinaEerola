@@ -19,13 +19,14 @@ h1
 {
   Display: block;
   Text-align: center;
-  Font-size: 4em;
+  Font-size: 2em;
   Font-family: "Italiana regular", italiana;
   Font-weight: bold;
   Color: #174D8A;
   Border: solid 0em;
   padding-bottom: 0.2em;
   Margin: auto;
+  margin-top: 0;
   Text-shadow: 0.2em 0.1em #B4BECF;
 }
 
@@ -33,7 +34,7 @@ h1
 {
   Text-align: center;
   Color: #213957;
-  Font-size: 1.7em;
+  Font-size: 1em;
 }
 
 Legend 
