@@ -21,6 +21,7 @@ body
   margin: 0 auto;
   display: flex;
   align-items: center;
+  position: absolute; top: 50%; left: 50%;
 }
 
 h1
@@ -80,8 +81,9 @@ Fieldset
 {
   Text-decoration: none;
   Border-radius: 2em;
-  Height: 5.5em;
-  Font-size: 2em;
+  Height: 1em;
+  Font-size: 0.5em;
+  width: 70%;
   Font-family: "Julius sans one", sans serif;
   Transition-duration: 0.4s;
   Cursor: pointer;
