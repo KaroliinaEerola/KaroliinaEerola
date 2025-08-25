@@ -6,17 +6,17 @@ Html
 .section0
 {
   max-width: 1020px;
-  width: 95%;
+  width: 98%;
   font-size: 0.98vw; 
 }
 
 .neli
 {
-  width: 45em;
+  width: 30em;
   height: 90%;
   margin-top: 0;
+  background-size: 40em 50em;
   background-color: #546C87;
-  border: solid 0.2em #546C87;
   item-align: center;
 }
 
@@ -41,6 +41,13 @@ h1
   Margin: auto;
   margin-top: 0;
   Text-shadow: 0.2em 0.1em #B4BECF;
+}
+
+.fieldi
+{  
+  border: solid 0.2em #546C87;
+  width: 48em;
+  height: 36em;
 }
 
 #findme
