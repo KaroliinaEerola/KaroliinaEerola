@@ -15,13 +15,12 @@ Html
   width: 30em;
   height: 90%;
   margin-top: 0;
-  background-size: 40em 50em;
-  background-color: #546C87;
-  item-align: center;
+  text-align: center;
 }
 
 body
-{
+{ background-size: 40em 50em;
+  background-color: #546C87;
   justify-content: center;
   margin: 0 auto;
   display: flex;
@@ -45,6 +44,8 @@ h1
 
 .fieldi
 {  
+  align-items: center;
+  text-align: center;
   border: solid 0.2em #546C87;
   width: 48em;
   height: 36em;
