@@ -33,6 +33,11 @@ body
   text-align: center;
   position: absolute; left: 50%; right: 50%;}
 
+#findme
+{ Text-align: center;
+  Color: #213957;
+  Font-size: 1em;}
+
 
 
 
@@ -44,15 +49,6 @@ body
   width: 48em;
   height: 36em;
 }
-
-#findme
-{
-  Text-align: center;
-  Color: #213957;
-  Font-size: 1em;
-}
-
-
 
 .somet
 {
@@ -83,7 +79,7 @@ body
 .somet, .somet a:link
 { Text-decoration: none;
   Border-radius: 2em;
-  Height: 1em;
+  Height: 2em;
   Font-size: 0.5em;
   width: 100%;
   Font-family: "Julius sans one", sans serif;
