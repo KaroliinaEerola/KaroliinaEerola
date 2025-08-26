@@ -1,33 +1,30 @@
 Html
-{
-  Background-color: #758AA1;
-}
+{ Background-color: #758AA1;}
 
 .section0
-{
-  max-width: 1020px;
+{ max-width: 1020px;
   width: 98%;
-  font-size: 0.98vw; 
-}
+  font-size: 0.98vw; }
 
-.neli
-{
-  width: 30em;
+.otsikko
+{ width: 30em;
   height: 90%;
   margin-top: 0;
-  text-align: center;
-}
+  text-align: center;}
+
+
+
+
+
 
 body
-{ 
-  background-size: 40em 50em;
+{ background-size: 40em 50em;
   background-color: #546C87;
   justify-content: center;
   margin: 0 auto;
   display: flex;
   text-align: center;
-  position: absolute; top: 50%; left: 50%;
-}
+  position: absolute; top: 50%; left: 50%;}
 
 h1
 {
@@ -80,56 +77,47 @@ Legend
   width: 90%;
   height: 90%;
   item-align: center;
+  text-align: center;
+  display: flex;
 }
+
+
+
 
 .somet button
-{
-  display: block;
+{ display: block;
   Margin: auto;
-  item-align: center;
-}
+  item-align: center;}
 
 .somet, .somet a:link
-{
-  Text-decoration: none;
+{ Text-decoration: none;
   Border-radius: 2em;
   Height: 1em;
   Font-size: 0.5em;
   width: 100%;
   Font-family: "Julius sans one", sans serif;
   Transition-duration: 0.4s;
-  Cursor: pointer;
-}
+  Cursor: pointer;}
 
 .button
-{
-  Text-decoration: none;
+{ Text-decoration: none;
   Color: #899CB3;
   Background-color: #3B5675;
   Border-radius: 2em;
   Height: 3em;
   width: 100%;
   Font-size: 2em;
-  Font-family: "Julius sans one", sans serif;
-}
+  Font-family: "Julius sans one", sans serif;}
 
 .somet a
-{
-  Color: #899CB3;
-}
+{ Color: #899CB3;}
 
 .button:hover
-{
-  Color: #0D1D30;
-  Background-color: #90AFD1; 
-}
+{ Color: #0D1D30;
+  Background-color: #90AFD1; }
 
 .somet a:hover
-{
-  Color: #0D1D30;
-}
+{ Color: #0D1D30;}
 
 .yhteys, #port, #vali
-{
-  Display: none;
-}
+{ Display: none;}
