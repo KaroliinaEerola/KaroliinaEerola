@@ -7,10 +7,11 @@ Html
   font-size: 0.98vw; }
 
 .otsikko
-{ width: 30em;
+{ width: 30em; 
   height: 90%;
   margin-top: 0;
-  text-align: center;}
+  text-align: center;
+  position: absolute; left: 50%; right: 50%;}
 
 
 
@@ -25,7 +26,7 @@ body
   margin: 0 auto;
   display: flex;
   text-align: center;
-  position: absolute; left: 50%; right: 50%}
+  position: absolute; left: 50%; right: 50%;}
 
 h1
 {
