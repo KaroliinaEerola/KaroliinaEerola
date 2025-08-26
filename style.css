@@ -19,7 +19,8 @@ Html
 }
 
 body
-{ background-size: 40em 50em;
+{ 
+  background-size: 40em 50em;
   background-color: #546C87;
   justify-content: center;
   margin: 0 auto;
@@ -36,7 +37,6 @@ h1
   Font-family: "Italiana regular", italiana;
   Font-weight: bold;
   Color: #174D8A;
-  Border: solid 0;
   Margin: auto;
   margin-top: 0;
   Text-shadow: 0.2em 0.1em #B4BECF;
