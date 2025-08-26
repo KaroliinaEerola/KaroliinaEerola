@@ -7,14 +7,14 @@ Html
   font-size: 0.98vw; }
 
 .otsikko
-{ font-size: 3em; 
+{ font-size: 1em; 
   margin-top: 0;
   text-align: center;
   item-align: center;}
 
 Legend 
 { Text-align: center;
-  color: #213957;
+  color: #174D8A;
   Padding: 0;
   padding-bottom: 1em;
   Font-weight: bold;}
@@ -23,7 +23,7 @@ h1
 { Display: block;
   Font-family: "Italiana regular", italiana;
   Margin: auto;
-  Text-shadow: 0.1em 0.05em #174D8A;}
+  Text-shadow: 0.1em 0.05em #213957;}
 
 body
 { border: solid 0;
