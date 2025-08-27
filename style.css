@@ -82,8 +82,8 @@ body
 .somet, .somet a:link
 { Text-decoration: none;
   Border-radius: 2em;
-  Height: 2em;
-  Font-size: 0.5em;
+  Height: 3em;
+  Font-size: 0.8em;
   width: 100%;
   Font-family: "Julius sans one", sans serif;
   Transition-duration: 0.4s;
