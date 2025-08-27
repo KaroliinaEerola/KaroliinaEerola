@@ -23,7 +23,7 @@ h1
 { Display: block;
   Font-family: "Italiana regular", italiana;
   Margin: auto;
-  Text-shadow: 0.01em 0.01em #213957;}
+  Text-shadow: 0.01em 0.02em #213957;}
 
 body
 { border: solid 0;
@@ -68,6 +68,8 @@ body
   text-align: center;
   display: flex;
   background-color: #546C87;
+  margin-top: 2em;
+  padding-top: 1em;
 }
 
 
