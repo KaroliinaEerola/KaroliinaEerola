@@ -35,6 +35,8 @@ body
 
 #findme
 { Text-align: center;
+  padding: 1em;
+  margin-bottom: 0.5em;
   Color: #213957;
   Font-size: 1em;}
 
