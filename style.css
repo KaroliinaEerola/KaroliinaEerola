@@ -14,7 +14,7 @@ Html
 
 Legend 
 { Text-align: center;
-  color: #174D8A;
+  color: #213957;
   Padding: 0;
   Font-weight: bold;}
 
@@ -22,7 +22,7 @@ h1
 { Display: block;
   Font-family: "Italiana regular", italiana;
   Margin: auto;
-  Text-shadow: 0.01em 0.02em #213957;}
+  Text-shadow: 0.01em 0.02em #174D8A;}
 
 body
 { border: solid 0;
