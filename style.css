@@ -7,7 +7,7 @@ Html
   font-size: 0.98vw; }
 
 .otsikko
-{ font-size: 1em; 
+{ font-size: 2em; 
   margin-top: 0;
   text-align: center;
   item-align: center;}
@@ -23,7 +23,7 @@ h1
 { Display: block;
   Font-family: "Italiana regular", italiana;
   Margin: auto;
-  Text-shadow: 0.1em 0.05em #213957;}
+  Text-shadow: 1em 1em #213957;}
 
 body
 { border: solid 0;
@@ -36,10 +36,8 @@ body
 #findme
 { Text-align: center;
   item-align: center;
-  padding: 1em;
-  margin-bottom: 0.5em;
   Color: #213957;
-  Font-size: 1em;}
+  Font-size: 1.5em;}
 
 
 
