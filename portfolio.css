@@ -23,6 +23,7 @@
 {
   background-color: #796654;
   text-align: center;
+  height: 31em;
 }
 
 #etu
@@ -32,8 +33,9 @@
   color: #5D4C31;
   text-align: center;
   Font-family: "Horta";
-  font-size: 20em;
-  Text-shadow: 0.05em 0.02em #442900;
+  font-size: 19em;
+  Text-shadow: 0.05em 0.01em #442900;
+  item-align-top: 20%; 
 }
 
 #niminen
