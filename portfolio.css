@@ -33,7 +33,7 @@
   color: #5D4C31;
   text-align: center;
   Font-family: "Horta";
-  font-size: 19em;
+  font-size: 17em;
   Text-shadow: 0.05em 0.01em #442900;
   item-align-top: 20%; 
 }
@@ -43,22 +43,22 @@
   font-family: "jimmy script", cursive;
   font-size: 3em;
   text-align: center;
-  position: absolute; left: 50%; right: 50%;
+  display: float;
   color: #442900;
+}
+
+.navigation
+{
+  padding: 1em;
+  font-size: 1em;
+  top-border: solid 0.3em white;
+  background-color: #423124;
 }
 
 .button a:link
 {
   text-decoration: none;
  
-}
-
-.navigation
-{
-  padding: 2em;
-  font-size: 3em;
-  top-border: solid 0.3em white;
-  background-color: #423124;
 }
 
 .section2
