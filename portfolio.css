@@ -36,14 +36,23 @@
   font-size: 17em;
   Text-shadow: 0.05em 0.01em #442900;
   item-align-top: 20%; 
+  position: absolute;
 }
+
+.container{
+  display: grid;}
+
+#etu, #niminen
+{
+  grid-column: 1;
+  grid-row: 1;}
 
 #niminen
 {
   font-family: "jimmy script", cursive;
   font-size: 3em;
   text-align: center;
-  display: float;
+  position: absolute;
   color: #442900;
 }
 
