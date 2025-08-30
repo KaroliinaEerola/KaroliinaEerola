@@ -61,7 +61,8 @@
   background-color: #423124;
   text-aling: center;
   text-decoration: none;
-  word-spacing: 1em;
+  word-spacing: 2em;
+  item-align: center;
 }
 
 .button a:link
