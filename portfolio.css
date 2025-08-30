@@ -23,7 +23,7 @@
 {
   background-color: #796654;
   text-align: center;
-  height: 50em;
+  height: 49em;
 }
 
 #etu
@@ -35,7 +35,6 @@
   Font-family: "Horta";
   font-size: 17em;
   Text-shadow: 0.05em 0.01em #442900;
-  item-align-top: 15%; 
 }
 
 .container{
