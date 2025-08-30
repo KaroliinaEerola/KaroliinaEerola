@@ -35,6 +35,7 @@
   font-size: 17em;
   Text-shadow: 0.05em 0.01em #442900;
   position:absolute;
+  padding: 1em;
   
 }
 
@@ -52,6 +53,7 @@
   font-size: 3em;
   text-align: center;
   color: #442900;
+  padding:1em;
 }
 
 .navigation
