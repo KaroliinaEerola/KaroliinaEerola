@@ -23,7 +23,7 @@
 {
   background-color: #796654;
   text-align: center;
-  height: 47em;
+  height: 45.2em;
 }
 
 #etu
@@ -42,7 +42,7 @@
 
 #etu, #niminen
 {
-  grid-column: 1;
+  grid-column: 2;
   grid-row: 1;}
 
 #niminen
