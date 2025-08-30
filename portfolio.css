@@ -75,8 +75,8 @@
 
 .section2
 {
-  display: flex;
-  justify-content: space-between; 
+  height: 60em;
+  background-color: #8C806F;
   align-items: center;
 }
 
