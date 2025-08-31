@@ -35,17 +35,13 @@
   font-size: 17em;
   Text-shadow: 0.05em 0.01em #442900;
   position:absolute;
-  padding: 1em;
-  
+  padding: 0.5em;
+  grid-column: 2;
+  grid-row: 1;
 }
 
 .container{
   display: grid;}
-
-#etu, #niminen
-{
-  grid-column: 2;
-  grid-row: 1;}
 
 #niminen
 {
@@ -53,7 +49,9 @@
   font-size: 3em;
   text-align: center;
   color: #442900;
-  padding:1em;
+  padding: 1em;
+  grid-column: 2;
+  grid-row: 1;
 }
 
 .navigation
@@ -66,6 +64,13 @@
   text-decoration: none;
   word-spacing: 2em;
   item-align: center;
+}
+
+#met, #cvt
+{
+  word-spacing: 1em;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 .button a:link
