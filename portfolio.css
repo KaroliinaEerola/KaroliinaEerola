@@ -1,7 +1,6 @@
-
-.section1, .section2, .section3, .section4, .section5
+html
 {
-  
+  background-color: #7A6E63;
 }
 
 .section0
@@ -80,14 +79,14 @@
 
 .section2
 {
-  height: 60em;
+  height: 70em;
   background-color: #8C806F;
   align-items: center;
 }
 
 #ame
 {
-font-size: 6em;  
+  font-size: 6em;  
 }
 
 .section3
