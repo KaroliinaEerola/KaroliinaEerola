@@ -61,15 +61,13 @@ html
   background-color: #423124;
   text-aling: center;
   text-decoration: none;
-  word-spacing: 2em;
   item-align: center;
 }
 
-#met, #cvt
+#met, #cvt, #pro, #pag
 {
-  word-spacing: 1em;
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 2.3em;
+  padding-right: 2.3em;
 }
 
 .button a:link
