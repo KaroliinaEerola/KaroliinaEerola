@@ -98,9 +98,23 @@ html
 
 .section3
 {
-  text-align: left;
+  heigth: 50em;
+  background-color: #d4cec6;
 }
 
+#h2cv
+{
+  text-align: left;
+  color: #5d4c31;
+  font-size: 4em;
+}
+
+#h4cert
+{
+  text-align: right;
+  color: #5d4c31;
+  font-size: 3em;
+}
 
 .section2
 {
@@ -121,10 +135,7 @@ legend
   color: #302410;
   text-align: center;
 }
-.section3
-{
-  heigth: 50em;
-}
+
 .section4
 {
   height: 50em;
