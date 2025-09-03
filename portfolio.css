@@ -36,11 +36,11 @@ html
   padding: 0.5em;
   grid-column: 2;
   grid-row: 1;
-  Font-family: "Horta";
+  Font-family: "Horta-demo";
 }
 @font-face
 {
-  font-family: Horta;
+  font-family: Horta-demo;
   font-style: regular;
   src: url("./horta-demo.otf");
 }
@@ -68,7 +68,7 @@ html
   text-aling: center;
   text-decoration: none;
   item-align: center;
-  width: 90%;
+  width: 98%;
 }
 
 #met, #cvt, #pro, #pag
